@@ -1,0 +1,16 @@
+{
+  "name": "appnodejs_1210",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "TP du 12/10/2023 - Création d'une petite application Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
